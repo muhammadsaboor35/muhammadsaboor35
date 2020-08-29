@@ -25,7 +25,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://banner2.cleanpng.com/20180320/jcw/kisspng-circle-brand-symbol-font-app-terminal-5ab0ebeebfe475.547184531521544174786.jpg" alt="bash" width="40" height="40"/>
+<img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/896px-Bash_Logo_black_and_white_icon_only.svg.png" alt="bash" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/>
 <p>&nbsp;</p>
