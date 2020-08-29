@@ -44,7 +44,7 @@
 <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fit/w_170,h_209,al_c,q_80/file.png" alt="IDA Pro" width="48" height="48"/>
 <p>&nbsp;</p>
 <p align="center">
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" alt="Windows" width="60" height="60"/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/windows-512.png" alt="Windows" width="65" height="65"/>
 <img src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" alt="Kali Linux" width="55" height="55"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" alt="Ubuntu" width="48" height="48"/>
 <img src="https://icons-for-free.com/iconfiles/png/512/os+centos+icon-1320167912360564768.png" alt="CentOS" width="48" height="48"/>
