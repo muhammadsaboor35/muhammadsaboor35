@@ -34,7 +34,7 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjvwxd-b25523cb-c1c0-4716-8e55-3efdc015abef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGp2d3hkLWIyNTUyM2NiLWMxYzAtNDcxNi04ZTU1LTNlZmRjMDE1YWJlZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.78tZSYZMHR4zWvx9nAu-JvXy-nPKCwMmxdBePKEvB08" alt="vs" width="48" height="48"/> 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfye6x-ee5cf816-da93-4428-8cc6-e388e0b45136.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZ5ZTZ4LWVlNWNmODE2LWRhOTMtNDQyOC04Y2M2LWUzODhlMGI0NTEzNi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._0zGB33NIE1jhC583GLDwygXr5jsMVwfCaEtBWtWNt0" alt="IDEA" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" alt="JADX" width="60" height="48"/>
+<img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" alt="JADX" width="48" height="48"/>
 <img src="https://i.imgur.com/MHIv2pZ.png" alt="Android Studio" width="48" height="48"/>
 <img src="https://user-images.githubusercontent.com/16199912/56060896-12690380-5d36-11e9-802e-8c7e70cd481e.png" alt="Ghidra" width="48" height="48"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/gdb-file-1942400-1639962.png" alt="gdb" width="48" height="48"/>
@@ -44,7 +44,7 @@
 <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fit/w_170,h_209,al_c,q_80/file.png" alt="IDA Pro" width="48" height="48"/>
 <p>&nbsp;</p>
 <p align="center">
-<img src="https://library.kissclipart.com/20180915/vqq/kissclipart-icon-clipart-product-key-computer-icons-windows-10-e333ebada12fe94e.jpg" alt="Windows" width="48" height="48"/>
+<img src="https://library.kissclipart.com/20180915/vqq/kissclipart-icon-clipart-product-key-computer-icons-windows-10-e333ebada12fe94e.jpg" alt="Windows" width="60" height="48"/>
 <img src="https://www.freepngimg.com/download/android/68988-kali-android-linux-free-clipart-hq.png" alt="Kali Linux" width="55" height="55"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" alt="Ubuntu" width="48" height="48"/>
 <img src="https://icons-for-free.com/iconfiles/png/512/os+centos+icon-1320167912360564768.png" alt="CentOS" width="48" height="48"/>
