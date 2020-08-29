@@ -37,6 +37,7 @@
 <img src="https://i.imgur.com/MHIv2pZ.png" alt="Android Studio" width="48" height="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1200px-Gnu-nano.svg.png" alt="nano" width="48" height="48"/>
 <img src="https://static.wixstatic.com/media/6a4a49_76094687779646fcb48f8863e9119f47~mv2.png/v1/fit/w_170,h_209,al_c,q_80/file.png" alt="IDA Pro" width="48" height="48"/>
+<img src="https://user-images.githubusercontent.com/16199912/56060896-12690380-5d36-11e9-802e-8c7e70cd481e.png" alt="Ghidra" width="48" height="48"/>
 <img src="https://downloadbull.com/wp-content/uploads/2017/03/OllyDbg-2.0-Free-Download.jpg" alt="Ollydbg" width="48" height="48"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/gdb-file-1942400-1639962.png" alt="gdb" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" alt="JADX" width="48" height="48"/>
