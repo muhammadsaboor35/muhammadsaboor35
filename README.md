@@ -56,3 +56,16 @@
 <a href = "mailto:msaboor35@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/muhammadsaboor35><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = https://www.linkedin.com/in/muhammad-saboor/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+
+<p>&nbsp;</p>
+
+## 📈 My Stats:     <a href="https://github.com/muhammadsaboor35"> <img src="https://komarev.com/ghpvc/?username=muhammadsaboor35&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<p align="center">
+<a href="https://github.com/muhammadsaboor35">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsaboor35&count_private=true&show_icons=true&theme=gruvbox" /></a>
+<a href="https://github.com/muhammadsaboor35/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaboor35&layout=compact&theme=gruvbox" /></a>
+  
+<p>&nbsp;</p>
+
+  ---
